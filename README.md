@@ -68,7 +68,7 @@ Open your browser: `http://127.0.0.1:6274` to test different transport protocols
 | In-Process     | (no external address)       | Embedded, testing       | No serialization, ultra-fast                | In-process only                        |
 
 ![STDIO](https://github.com/go-nunu/nunu/blob/main/.github/assets/mcp/stdio.png)
-![SSE](https://github.com/go-nunu/nunu/blob/main/.github/assets/mcp/see.png)
+![SSE](https://github.com/go-nunu/nunu/blob/main/.github/assets/mcp/sse.png)
 ![StreamableHTTP](https://github.com/go-nunu/nunu/blob/main/.github/assets/mcp/http.png)
 
 ---

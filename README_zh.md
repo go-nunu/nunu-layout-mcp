@@ -68,7 +68,7 @@ npx -y @modelcontextprotocol/inspector ./bin/server
 | In-Process     | （无外部地址）                     | 嵌入式系统、测试      | 无需序列化、性能极高        | 仅支持进程内调用                |
 
 ![STDIO](https://github.com/go-nunu/nunu/blob/main/.github/assets/mcp/stdio.png)
-![SSE](https://github.com/go-nunu/nunu/blob/main/.github/assets/mcp/see.png)
+![SSE](https://github.com/go-nunu/nunu/blob/main/.github/assets/mcp/sse.png)
 ![StreamableHTTP](https://github.com/go-nunu/nunu/blob/main/.github/assets/mcp/http.png)
 
 ---
